@@ -51,8 +51,8 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Program:
 ```python
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-Developed by: PRIYANKA.A 
-RegisterNumber: 212222230113
+Developed by: RAJA R
+RegisterNumber: 212222100041
 
 module EX2(A,B,C,D,F1);
 input A,B,C,D;
